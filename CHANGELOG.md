@@ -1,5 +1,7 @@
 # Changelog
 
+## 0.148.1
+
 ## 0.148.0
 
 <details><summary>google/cloud-compute 0.1.0</summary>
